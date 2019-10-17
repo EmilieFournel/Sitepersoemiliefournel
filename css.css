@@ -1,0 +1,67 @@
+body{
+background: white;
+}
+
+.carre{
+width: hidden;
+height: 70px;
+background: darkblue;
+margin: auto;
+}
+
+.carre2{
+margin-top: 10px;    
+width: 300px;
+height: 600px;
+background: darkcyan;
+}
+
+
+.text{
+color:black;
+text-align: center;
+margin-right: 25px;
+font-size: 50px;
+}
+
+
+.textbis{
+color: black;
+text-align: center;
+font-size: 30px;
+}
+
+
+.textbis2{
+color: white;
+}
+
+
+.img{
+width: 50px;
+height: 50px;
+display: block;
+width: auto;
+margin-left: 40px;
+padding-top: 20px;
+}
+
+
+.img2{
+    width: 100px;
+    height: 100px;
+    display: block;
+    width: auto;
+    margin-left: 90px;
+    padding-top: 50px;
+}
+
+
+.img3{
+    width: 120px;
+    height: 120px;
+    display: block;
+    width: auto;
+    margin-left: 80px;
+    padding-top: 30px;
+}
